@@ -1,0 +1,7 @@
+A atividade instaurada no dia 28/02/2023 - terça-feira - foi com o objetivo de o grupo um criar uma calculadora funcional, esta da qual faria multiplas funções, dentre elas:
+- multiplicação;
+- soma; 
+- subtração;
+- e também divisão.
+
+Além disso, também fomos desafiados a inserir um loop e demonstrar como armazenar os dados anteriormente calculados, isso tudo atráves de um vetor.
