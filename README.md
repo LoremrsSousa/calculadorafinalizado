@@ -1,0 +1,2 @@
+# calculadorafinalizado
+Com histórico funcional
